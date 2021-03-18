@@ -1,0 +1,6 @@
+button {
+  color: green;
+  color: orange !important;
+  color: red;
+  font-size: 30px;
+}
